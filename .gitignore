@@ -1,0 +1,31 @@
+final
+/16-markdown-preview
+/17-random-person
+/18-pagination
+/19-stock-photos
+/20-dark-mode
+/21-movie-db
+/22-hacker-news
+/23-quiz
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
