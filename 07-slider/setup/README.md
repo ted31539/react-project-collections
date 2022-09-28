@@ -1,5 +1,5 @@
-# react-projects-7-slider
+# 07-slider
 
-#### IN ACTION
+[Demo](https://ted-slider.netlify.app/)
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+## useEffect and Conditional Rendering

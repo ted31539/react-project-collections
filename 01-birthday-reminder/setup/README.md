@@ -1,3 +1,5 @@
-## Idea
+# 01-birthday-reminder
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[Demo](https://ted-birthday-reminder.netlify.app/)
+
+## useState

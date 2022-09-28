@@ -1,3 +1,5 @@
-#### IN ACTION
+# 06-tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[Demo](https://ted-tabs.netlify.app/)
+
+## useEffect and Conditional Rendering

@@ -1,22 +1,10 @@
-# React Projects
+# React Project Collections
 
-#### React Course
+### All Projects
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[Projects Site](https://ted-react-project-collections.netlify.app/)
 
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
+## 使用技術
 
 #### useState
 
@@ -54,15 +42,5 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 15. Cocktails
 
-## Advanced Projects (Course Exclusive)
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
+## Source
+[Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo)
